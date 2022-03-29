@@ -51,10 +51,3 @@ checkOnly(txEmail, email, statusOfEmail, 'Vui lòng nhập đúng email')
 // }
 
 // txName.onblur = checkName/ const checkName = () => {
-// 	const valueName = alphabate.test(txName.value)
-// 	valueName
-// 		? (statusOfName.textContent = undefined)
-// 		: (statusOfName.textContent = 'Phải là chữ k dấu')
-// }
-
-// txName.onblur = checkName
